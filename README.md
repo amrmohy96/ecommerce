@@ -1,1 +1,1 @@
-# Ecommerce Platform => Backend (Laravel,Blade,stripe) 
+# Ecommerce Platform : sell products with stripe payment
